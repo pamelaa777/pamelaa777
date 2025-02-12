@@ -28,9 +28,6 @@ Se você está procurando um estudante técnico dedicado, com forte capacidade d
 
 ### Entre em Contato 📞🌐📧
 
-GitHub: "[pamelaa777] (https://github.com/pamelaa777)"
-
-
 Fique à vontade para entrar em contato. Estou ansioso para conhecer novas oportunidades, colaborar em projetos inovadores e aprender com profissionais do mercado. Vamos criar algo extraordinário juntos!
 
 ###
@@ -103,7 +100,7 @@ Fique à vontade para entrar em contato. Estou ansioso para conhecer novas oport
     title="C" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/-original.svg" 
 />
 
 <img 
