@@ -76,7 +76,7 @@ Fique à vontade para entrar em contato. Estou ansioso para conhecer novas oport
     title="MYSQL" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordamk-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark-original.svg" 
 />
 <img 
     align="left" 
@@ -84,7 +84,7 @@ Fique à vontade para entrar em contato. Estou ansioso para conhecer novas oport
     title="PROCESSING" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/processing/processing-original-woedamk.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/processing/processing-original-wordmark.svg" 
 />
 <img 
     align="left" 
