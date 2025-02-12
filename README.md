@@ -68,7 +68,7 @@ Fique à vontade para entrar em contato. Estou ansioso para conhecer novas oport
     title="JAVA"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 <img 
     align="left" 
@@ -76,7 +76,7 @@ Fique à vontade para entrar em contato. Estou ansioso para conhecer novas oport
     title="MYSQL" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordamk-original.svg" 
 />
 <img 
     align="left" 
