@@ -84,7 +84,7 @@ Fique à vontade para entrar em contato. Estou ansioso para conhecer novas oport
     title="PROCESSING" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/processing/processing-original-woedamk.svg" 
 />
 <img 
     align="left" 
@@ -92,7 +92,7 @@ Fique à vontade para entrar em contato. Estou ansioso para conhecer novas oport
     title="C#"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
 />
 <img 
     align="left" 
@@ -100,7 +100,7 @@ Fique à vontade para entrar em contato. Estou ansioso para conhecer novas oport
     title="C" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
 
 <img 
